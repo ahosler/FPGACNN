@@ -1,2 +1,2 @@
 # FPGACNN
-I built a CNN on an FPGA using OpenCL
+A Convolutional Neural Network built for an FPGA using OpenCL
